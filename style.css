@@ -5,3 +5,15 @@ html, body {
 #map {
   height:100vh;
 }
+
+.ol-attribution.ol-uncollapsible {
+  bottom: 0;
+  right: 0;
+  font-family: system-ui;
+  border-radius: 4px 0 0;
+  font-size: 14px;
+}
+
+#homebtn {
+  background-color: tomato;
+}
